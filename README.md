@@ -1,5 +1,7 @@
 # Integration of TCL-based air conditioners for Home Assistant
 
+I am planning to use claude or another AI to help adapt the TCL protocol to my Della Mini-split whihc seems to be slightly different. I am using a ESP-01S and can see bi-directional data but the responses from the mini-split are not as expected.
+
 ### Implemented:
 - Split system modes (auto, cool, dry, fan only, heat)
 - Fan modes (mute, min, min-mid, mid, mid-high, high, turbo)
